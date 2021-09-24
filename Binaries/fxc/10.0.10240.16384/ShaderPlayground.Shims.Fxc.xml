@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShaderPlayground.Shims.Fxc</name>
+    </assembly>
+    <members>
+        <member name="M:ShaderPlayground.Shims.Fxc.Program.Main(System.String,System.String,System.Boolean,System.Int32,System.String,System.String,System.String,System.String)">
+            <param name="targetProfile">Target profile</param>
+            <param name="entryPoint">Entry point</param>
+            <param name="disableOptimizations">Disable optimizations</param>
+            <param name="optimizationLevel">Optimization level</param>
+            <param name="objectFile">Output object file</param>
+            <param name="assemblyFile">Output assembly file</param>
+            <param name="errorsFile">Output errors and warnings file</param>
+            <param name="file">File to compile</param>
+        </member>
+    </members>
+</doc>
